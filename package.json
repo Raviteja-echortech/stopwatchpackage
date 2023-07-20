@@ -1,0 +1,15 @@
+{
+  "name": "react-native-my-stopwatch",
+  "version": "1.0.0",
+  "description": "this is a static code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravitejareddy",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.0"
+  }
+}
